@@ -1,0 +1,1 @@
+The Firebase Realtime Database client sometimes throws an error like "Failed to establish a connection" or similar messages, even when the network connectivity seems fine. This is intermittent and difficult to reproduce consistently.  The code may appear to be functioning correctly, but sporadically fails to connect, causing data synchronization issues.
